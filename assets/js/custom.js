@@ -92,6 +92,11 @@
       }
 	});
 
+
+
+
+	
+
 	$('.owl-testimonials').owlCarousel({
 	  center: true,
       items:1,
