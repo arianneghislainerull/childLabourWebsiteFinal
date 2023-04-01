@@ -675,7 +675,7 @@ Banner Style
 }
 
 .main-banner .item-0 {
-  background-image: url(../images/accent3.png);
+  background-image: url(../images/cover111.jpeg);
 }
 
 .main-banner .item-1 {
@@ -967,7 +967,7 @@ Services Style
   display: inline-block;
   text-align: center;
   line-height: 190px;
-  background-color: #7a6ad8;
+  background-color: #1d3557;
   border-radius: 50%;
   position: absolute;
   right: 0;
@@ -1030,7 +1030,7 @@ About Style
 .accordion {
   margin-top: -40px;
   margin-bottom: -40px;
-  background-color: #7a6ad8;
+  background-color: #1d3557;
   border-radius: 40px;
   padding: 80px 50px 50px 50px;
 }
@@ -1049,7 +1049,8 @@ About Style
 }
 
 .accordion-button:not(.collapsed) {
-  color: #7a6ad8;
+  /* color: #7a6ad8; */
+  color: #1d3557;
   background-color: #fff;
 }
 
@@ -1071,7 +1072,10 @@ h2.accordion-header button {
   text-align: center;
   line-height: 30px;
   border-radius: 50%;
+  /*
   background-color: #7a6ad8;
+  */
+  background-color: #1d3557;
   color: #fff;
 }
 
